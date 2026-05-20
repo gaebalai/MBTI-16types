@@ -11,6 +11,3 @@ desktop.ini
 
 # Logs
 *.log
-
-# Build artifacts (스킬 zip — build-zip.sh로 재생성, GitHub Releases로 배포)
-claude-ai-skill/*.zip
