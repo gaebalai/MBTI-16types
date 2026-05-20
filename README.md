@@ -56,6 +56,19 @@ MBTI-16types/
 자세한 단계와 준비물(유료 플랜 등)은 [claude-ai-skill/README.md](claude-ai-skill/README.md),
 가장 간단한 안내는 [QUICKSTART.md](QUICKSTART.md)를 보세요.
 
+## Claude Code에서 쓰고 싶다면
+
+이 저장소는 **claude.ai용 Agent Skill** 버전입니다.
+[Claude Code](https://claude.com/claude-code)에서 쓰고 싶다면, 같은 16유형 기능을
+**플러그인**으로 설치할 수 있습니다.
+
+```
+/plugin marketplace add gaebalai/claudecode-to
+/plugin install mbti-16types@claudecode.to
+```
+
+설치하면 zip 업로드 없이 `/mind` · `/pair` · `/minds` 슬래시 커맨드로 바로 쓸 수 있습니다.
+
 ## 사용 예
 
 ### 아이디어 도출

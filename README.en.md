@@ -58,6 +58,19 @@ For full steps and requirements (paid plan, etc.) see
 [claude-ai-skill/README.md](claude-ai-skill/README.md); for the simplest path see
 [QUICKSTART.md](QUICKSTART.md).
 
+## Prefer Claude Code?
+
+This repository is the **claude.ai Agent Skill** version. If you use
+[Claude Code](https://claude.com/claude-code) instead, you can install the same
+16-type feature as a **plugin**:
+
+```
+/plugin marketplace add gaebalai/claudecode-to
+/plugin install mbti-16types@claudecode.to
+```
+
+No zip upload needed — it then runs via the `/mind`, `/pair`, and `/minds` slash commands.
+
 ## Examples
 
 ### Idea generation
